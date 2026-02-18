@@ -1,6 +1,6 @@
 # Pwropts
 Power options on hyprland via wofi
-![Overview]([images/screenshot.png](https://github.com/Normoxd/Pwropts/blob/main/img.png?raw=true))
+![Overview](https://github.com/Normoxd/Pwropts/blob/main/img.png?raw=true)
 
 # How to install
 
