@@ -16,3 +16,5 @@ Power options on hyprland via wofi
    ```
    bind = $mainMod ALT, X, exec, /path/to/your/pwropts.sh
    ```
+
+The one in the screenshot uses a wofi theme. if you want it, [click here](https://github.com/Normoxd/Hyped-land/blob/main/config/wofi/style.css)
