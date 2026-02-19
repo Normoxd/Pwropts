@@ -12,7 +12,7 @@ Power options on hyprland via wofi
    chmod +x pwropts.sh
    ```
 
-3. Add a keybind which executes the script to your hyprland config
+3. Add a keybind to your hyprland config which executes the script
    ```
    bind = $mainMod ALT, X, exec, /path/to/your/pwropts.sh
    ```
